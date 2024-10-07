@@ -1,0 +1,3 @@
+[submodule "git-pratice_sub"]
+	path = git-pratice_sub
+	url = https://github.com/Kwonyeojiny/git-pratice_sub.git
